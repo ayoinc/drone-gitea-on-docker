@@ -1,4 +1,6 @@
 # drone-gitea-on-docker
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/7e66b755-f518-4ba6-a62b-ee988a7b8e57.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/drone-gitea-on-docker?orgId=666444378491)  
 DroneCI and Gitea on Docker
 
 ## Usage
